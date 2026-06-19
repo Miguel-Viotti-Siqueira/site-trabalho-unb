@@ -1,0 +1,29 @@
+body {
+    width: 90%;
+    height: 100vh;
+    margin: auto;
+    background-color: #92008c;
+    background-image: url(imagens/bandeira2.png);
+    background-position: bottom ;
+    background-repeat: no-repeat;
+    background-size: 40%;
+}
+
+article {
+    width: 85%;
+    margin: auto;
+    color: #F5F5DC;
+}
+
+h1 {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight:2em;
+} 
+
+p
+{
+    font-family:serif;
+    
+} 
+
+

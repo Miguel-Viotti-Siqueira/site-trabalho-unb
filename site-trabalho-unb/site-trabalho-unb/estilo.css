@@ -1,5 +1,5 @@
 body {
-    width: 90%;
+    width: 100%;
     height: 100vh;
     margin: auto;
     background-color: #92008c;
@@ -7,6 +7,17 @@ body {
     background-position: bottom ;
     background-repeat: no-repeat;
     background-size: 40%;
+}
+
+header{
+    background-color: yellow;
+    background-size: cover;
+    width: 100;  
+    margin: auto
+}
+
+ul li{
+    display: inline-block
 }
 
 article {

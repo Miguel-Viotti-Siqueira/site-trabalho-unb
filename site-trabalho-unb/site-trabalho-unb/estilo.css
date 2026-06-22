@@ -16,6 +16,11 @@ header{
     margin: auto
 }
 
+
+.alignright {
+    float: right;
+}
+
 ul li{
     display: inline-block
 }

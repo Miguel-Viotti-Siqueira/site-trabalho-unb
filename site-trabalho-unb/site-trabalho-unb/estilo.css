@@ -18,12 +18,18 @@ header{
 
 
 .alignright {
+    display: inline-block;
     float: right;
 }
 
-ul li{
-    display: inline-block
+.alignleft {
+    display: inline-block;
 }
+
+.dontinlineblock{
+    display: block
+}
+
 
 article {
     width: 85%;
@@ -32,14 +38,18 @@ article {
 }
 
 h1 {
-    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: sans-serif;
     font-weight:2em;
 } 
 
 p
 {
-    font-family:serif;
+    font-family:sans-serif;
     
 } 
+
+a{
+    color: black
+}
 
 
